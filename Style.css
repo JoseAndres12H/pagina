@@ -93,7 +93,7 @@ label[for="menu"] {
     top: 60px;
     right: 0;
     width: 300px;
-    background: white;
+    background: rgb(9, 52, 247);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 8px;
@@ -124,8 +124,8 @@ label[for="menu"] {
     text-align: center;
     margin-top: 10px;
     padding: 10px;
-    background: #f5f5fa;
-    color: white;
+    background: #000014;
+    color: rgb(252, 251, 251);
     border: none;
     border-radius: 5px;
     cursor: pointer;
